@@ -17,7 +17,7 @@ export const excelData = [];
 const HomePageHeader = ({ item }) => {
   return (
     <header className="header">
-      <h2>Aishwarya's Grid</h2>
+      <h2>Hareesh's Grid</h2>
       <GenerateExcel pageValue={item} />
     </header>
   );
