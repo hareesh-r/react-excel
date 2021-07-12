@@ -1,0 +1,12 @@
+npx create-react-app aishu
+
+npm install xlsx file-saver --save
+
+React to excel API : https://technicaaadda.blogspot.com/2020/11/export-data-to-excel-using-react.html
+
+React debugging : Stackoverflow.com 
+
+Html input elamants : W3 schools 
+
+Youtube tutorial for React to API : FullStack Techies 
+

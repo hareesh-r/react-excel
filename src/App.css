@@ -1,0 +1,94 @@
+.App {
+  text-align: center;
+}
+
+.header {
+  background: linear-gradient(to right, rgb(255, 0, 0), #fff, rgb(4, 0, 255));
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #000000;
+}
+
+h1,
+.h4 {
+  background: linear-gradient(to right, rgb(255, 0, 0), #fff, rgb(4, 0, 255));
+  margin: 0;
+}
+
+table {
+  display: flex;
+  justify-content: center;
+  border: none;
+}
+
+td {
+  border: 3px solid rgb(0, 0, 0);
+}
+
+.id {
+  width: 60px;
+  max-width: 60px;
+}
+
+.email {
+  width: 300px;
+  max-width: 300px;
+}
+
+.created_at,
+.updated_at {
+  width: 260px;
+  max-width: 260px;
+}
+
+.gender {
+  width: 90px;
+  max-width: 90px;
+}
+
+.status {
+  width: 120px;
+  max-width: 120px;
+}
+
+.name {
+  width: 200px;
+  max-width: 200px;
+}
+
+.email h4 {
+  word-wrap: break-word;
+}
+
+.id h4,
+.name h4,
+.email h4,
+.gender h4,
+.status h4,
+.created_at h4,
+.updated_at h4 {
+  word-wrap: break-word;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.stock-container {
+  background: linear-gradient(to right, #00ecfa, #ddd, #eee, #ddd, #fd00ff);
+}
+
+.generateExcel {
+  margin-bottom: 50px;
+}
+
+.pagination {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  margin-right: 300px;
+}
