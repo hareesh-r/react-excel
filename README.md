@@ -1,3 +1,22 @@
+## npx create-react-app appName
+
+## npm install xlsx file-saver --save
+
+## React to excel API : #[Reference](https://technicaaadda.blogspot.com/2020/11/export-data-to-excel-using-react.html)
+
+## React debugging : Stackoverflow.com 
+
+## Html input elamants : W3 schools 
+
+## Youtube tutorial for React to API : FullStack Techies 
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
